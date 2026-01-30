@@ -30,7 +30,7 @@ const baseColors = {
     light1: '#A6A6A6',
     light2: '#BCBCBC',
     light3: '#D2D2D2',
-    light4: '#E9E9E9',
+    light4: '#ff0000',
     light5: '#F5F6F7',
     light6: '#F9F9F9',
     dark1: '#797979',
